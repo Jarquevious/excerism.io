@@ -5,7 +5,7 @@ def dna_comparison(arr, nums):
             count += 1
     return count 
 
-        
+# Time Complexity is o(n) because of for loop     
 # arr = 'GAGCCTACTAACGGGAT'
 # nums = 'CATCGTAATGACGGCCT'
 # print(dna_comparison(arr, nums))

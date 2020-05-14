@@ -26,3 +26,5 @@ def two_sum(arr, t):
 t = 5
 arr = [5,2,5,3,8]
 print(two_sum(arr, t))
+
+#time complexity is o(n^2) because of the nested for loop
